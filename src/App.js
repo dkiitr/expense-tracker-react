@@ -25,7 +25,7 @@ const DUMMY_EXPENSES = [
         id: "e4",
         title: "Table Purchase",
         amount: 249.49,
-        date: new Date(2019, 2, 28),
+        date: new Date(2019, 6, 28),
     },
 ];
 
